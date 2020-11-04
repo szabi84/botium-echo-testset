@@ -1,7 +1,7 @@
 {
   "convos": [
     {
-      "name": "Greet the bot",
+      "name": "Json conversation v3",
       "description": "some optional description",
       "steps": [
         {
@@ -20,7 +20,8 @@
   "utterances": {
     "GREETING": [
       "hi",
-      "hello!"
+      "hello!",
+      "hey"
     ]
   }
 }
