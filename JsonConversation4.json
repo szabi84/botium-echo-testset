@@ -1,7 +1,7 @@
 {
   "convos": [
     {
-      "name": "Json conversation v3",
+      "name": "Json conversation v4",
       "description": "some optional description",
       "steps": [
         {
@@ -21,7 +21,8 @@
     "GREETING": [
       "hi",
       "hello!",
-      "hey"
+      "hey",
+      "good day"
     ]
   }
 }
