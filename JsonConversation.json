@@ -1,0 +1,26 @@
+{
+  "convos": [
+    {
+      "name": "Greet the bot",
+      "description": "some optional description",
+      "steps": [
+        {
+          "me": [
+            "GREETING"
+          ]
+        },
+        {
+          "bot": [
+            { "asserter": "INTENT", "args": "intent_of_the_greeting" }
+          ]
+        }
+      ]
+    }
+  ],
+  "utterances": {
+    "GREETING": [
+      "hi",
+      "hello!"
+    ]
+  }
+}
